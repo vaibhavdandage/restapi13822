@@ -1,0 +1,5 @@
+package project.vpd.restapp13822.action;
+
+public enum ActionStatus {
+	DATA_VALIDATION_ERROR, BUSINESS_RULES_VALIDATION_ERROR, TECHNICAL_ERROR, PERFORM_ACTION_ERROR, SUCCESS
+}
