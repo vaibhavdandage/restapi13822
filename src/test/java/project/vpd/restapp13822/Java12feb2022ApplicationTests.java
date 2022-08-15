@@ -1,4 +1,4 @@
-package project.vpd.java12feb2022;
+package project.vpd.restapp13822;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
