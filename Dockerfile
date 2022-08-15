@@ -1,4 +1,4 @@
 FROM openjdk:8
-EXPOSE 10100
-ADD target/java12feb2022-0.0.1-SNAPSHOT.jar restapp14822docker.jar
-ENTRYPOINT ["java","-jar","/restapp14822docker.jar"]
+EXPOSE 8081
+ADD target/java12feb2022-0.0.1-SNAPSHOT.jar java12feb2022-0.0.1-SNAPSHOT.jar
+ENTRYPOINT ["java","-jar","/java12feb2022-0.0.1-SNAPSHOT.jar"]
