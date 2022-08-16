@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: project.vpd.restapp13822.Java12feb2022ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.247 s - in project.vpd.restapp13822.Java12feb2022ApplicationTests
